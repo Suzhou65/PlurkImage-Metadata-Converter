@@ -11,6 +11,7 @@
 **僅能辨識圖片上傳者，如果發文者使用他人圖片，偷偷說探針無法識別**  
 
 噗浪官方於 6 月 28 日晚間的後端維修後，圖片儲存邏輯改變，目前無法識別新上傳的圖片，但舊有圖片依然可以識別  
+
 目前不確定噗浪官方是否會修改所有圖片，所以偷偷說探針隨時可能失效  
 
 ## 使用說明
@@ -20,9 +21,19 @@
 **不鼓勵刺探他人隱私，僅作為驗證噗浪後端系統儲存邏輯的概念性工具**  
 
 ## 開發目的  
-我看見業火在燃燒  
-![ScreenShot](http://i.imgur.com/uVkyMfN.gif)  
+偷偷說已經從一開始的娛樂與讓人講出一些實際身分不方便講出來的東西，變質為惡意潑糞跟散播惡意內容的媒介  
+![ScreenShot](https://archives.helheim.info/swap/this_is_fine.png)  
+
+以噗浪駭客勳章為誓，為了蔚藍清淨的噗浪  
+![ScreenShot](https://archives.helheim.info/swap/Plurk_icon.png)  
 
 ## 資源
 - Base62 encoder and decoder for arbitrary data https://github.com/tuupola/base62  
-- Base-62 UUID generator https://github.com/shanehughes3/uuid62  
+- Base-62 UUID generator https://github.com/shanehughes3/uuid62 
+
+## 作者
+-  Suzhou65 https://www.plurk.com/Takahashi_65   
+我看見業火在燃燒  
+
+## 特別感謝
+- 概念驗證 https://www.plurk.com/DoTaMoonNight  

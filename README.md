@@ -1,4 +1,7 @@
-# Plurk_Image-Metadata-Converter
+# PlurkImage-Metadata-Converter
+  
+## 實際演示
+https://takahashi65.info/plurk/anonymous_probe.html
   
 ## 怎麼辦到的
 以噗浪圖片儲存邏輯，進行 BASE62 演算後，解算出使用者 UID 進行查詢  
@@ -30,12 +33,15 @@
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_Plurk_icon.png)  
 
 ## 資源
-- Base62 encoder and decoder for arbitrary data https://github.com/tuupola/base62  
-- Base-62 UUID generator https://github.com/shanehughes3/uuid62 
+- Base62 encoder and decoder for arbitrary data  
+https://github.com/tuupola/base62  
+- Base-62 UUID generator  
+https://github.com/shanehughes3/uuid62 
 
 ## 作者
--  Suzhou65 https://www.plurk.com/Takahashi_65   
+- Suzhou65 https://www.plurk.com/Takahashi_65  
 我看見業火在燃燒  
 
 ## 特別感謝
-- 概念驗證 https://www.plurk.com/DoTaMoonNight  
+- https://www.plurk.com/DoTaMoonNight  
+概念驗證  

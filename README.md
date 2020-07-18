@@ -42,4 +42,5 @@
 我看見業火在燃燒
 
 ## 特別感謝
-- [概念驗證](https://www.plurk.com/DoTaMoonNight)
+- [DoTaMoonNight](https://www.plurk.com/DoTaMoonNight)   
+概念驗證

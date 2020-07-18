@@ -1,7 +1,11 @@
 # PlurkImage-Metadata-Converter
   
-## 實際演示
-https://takahashi65.info/plurk/anonymous_probe.html
+[![css](https://github.takahashi65.info/lib_badge/uses-css.svg)](https://www.w3.org/Style/CSS/) 
+[![html](https://github.takahashi65.info/lib_badge/uses-html.svg)](https://html.spec.whatwg.org/)
+[![js](https://github.takahashi65.info/lib_badge/uses-js.svg)](https://www.javascript.com/)
+  
+## [實際演示](https://takahashi65.info/plurk/anonymous_probe.html)
+使用說明? 看到網頁你就懂了
   
 ## 怎麼辦到的
 以噗浪圖片儲存邏輯，進行 BASE62 演算後，解算出使用者 UID 進行查詢  
@@ -16,10 +20,7 @@ https://takahashi65.info/plurk/anonymous_probe.html
 噗浪官方於 6 月 28 日晚間的後端維修後，圖片儲存邏輯改變，目前無法識別新上傳的圖片，但舊有圖片依然可以識別  
 
 目前不確定噗浪官方是否會修改所有圖片，所以本工具隨時可能失效  
-
-## 使用說明
-看到網頁你就懂了  
-
+  
 ## 免責說明 / 隱私權說明 / Privacy Policy
 **本工具不鼓勵刺探他人隱私，僅作為驗證噗浪後端系統儲存邏輯的概念性工具**  
   
@@ -33,15 +34,12 @@ https://takahashi65.info/plurk/anonymous_probe.html
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_Plurk_icon.png)  
 
 ## 資源
-- Base62 encoder and decoder for arbitrary data  
-https://github.com/tuupola/base62  
-- Base-62 UUID generator  
-https://github.com/shanehughes3/uuid62 
+- [Base62 encoder and decoder for arbitrary data](https://github.com/tuupola/base62)  
+- [Base-62 UUID generator](https://github.com/shanehughes3/uuid62) 
 
 ## 作者
-- Suzhou65 https://www.plurk.com/Takahashi_65  
-我看見業火在燃燒  
+- [Suzhou65](https://www.plurk.com/Takahashi_65)  
+我看見業火在燃燒
 
 ## 特別感謝
-- https://www.plurk.com/DoTaMoonNight  
-概念驗證  
+- [概念驗證](https://www.plurk.com/DoTaMoonNight)

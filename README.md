@@ -6,7 +6,7 @@
 ## Contents
 - [PlurkImage-Metadata-Converter](#plurkimage-metadata-converter)
   * [Contents](#Contents)
-  * [[Live Demo](https://takahashi65.info/plurk/anonymous_probe.html)](#-live-demo--https---takahashi65info-plurk-anonymous-probehtml-)
+  * [Live Demo](#live-Demo)
   * [How it works](#how-it-works)
   * [Operating Restrictions](#operating-restrictions)
   * [Disclaimer / Privacy Policy](#disclaimer---privacy-policy)
@@ -15,8 +15,8 @@
   * [Thanks](#thanks)
   * [Troll](#troll)
 
-## [Live Demo](https://takahashi65.info/plurk/anonymous_probe.html)
-使用說明? 看到網頁你就懂了
+## Live Demo
+使用說明? [看到網頁你就懂了](https://takahashi65.info/plurk/anonymous_probe.html)
   
 ## How it works
 以噗浪圖片儲存邏輯，進行 BASE62 演算後，解算出使用者 UID 進行查詢  

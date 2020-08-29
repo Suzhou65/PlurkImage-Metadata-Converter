@@ -9,7 +9,7 @@
   * [Live Demo](#live-Demo)
   * [How it works](#how-it-works)
   * [Operating Restrictions](#operating-restrictions)
-  * [Disclaimer / Privacy Policy](#disclaimer---privacy-policy)
+  * [Disclaimer](#disclaimer)
   * [Development Purpose](#development-purpose)
   * [Resources](#resources)
   * [Thanks](#thanks)
@@ -33,9 +33,8 @@
 + 但舊有圖片依然可以識別
 ```
 
-## Disclaimer / Privacy Policy
+## Disclaimer
 **本工具不鼓勵刺探他人隱私，僅作為驗證噗浪後端系統儲存邏輯的概念性工具**  
-  
 本工具生成的網頁會提供其他網站的網路連結，您也可經由本工具所提供的連結，點選進入其他網站，但該連結網站不適用本工具的免責說明，您必須參考該連結網站中的隱私權保護政策
 
 ## Development Purpose  

@@ -39,10 +39,10 @@
 
 ## Development Purpose  
 偷偷說已經從一開始的娛樂與讓人講出一些實際身分不方便講出來的東西，變質為惡意潑糞跟散播惡意內容的媒介  
-![ScreenShot](https://github.takahashi65.info/lib_img/github_this_is_fine.png)  
+![ScreenShot](https://github.takahashi65.info/lib_img/github_this_is_fine.webp)  
 
 以噗浪駭客勳章為誓，為了蔚藍清淨的噗浪  
-![ScreenShot](https://github.takahashi65.info/lib_img/github_Plurk_icon.png)  
+![ScreenShot](https://github.takahashi65.info/lib_img/github_Plurk_icon.webp)  
 
 ## Resources
 - [Base62 encoder and decoder for arbitrary data](https://github.com/tuupola/base62)  

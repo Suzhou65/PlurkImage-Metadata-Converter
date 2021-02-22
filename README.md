@@ -1,7 +1,9 @@
 # PlurkImage-Metadata-Converter
-[![css](https://github.takahashi65.info/lib_badge/uses-css.svg)](https://www.w3.org/Style/CSS/) 
-[![html](https://github.takahashi65.info/lib_badge/uses-html.svg)](https://html.spec.whatwg.org/)
-[![js](https://github.takahashi65.info/lib_badge/uses-js.svg)](https://www.javascript.com/)
+[![js](https://github.takahashi65.info/lib_badge/JavaScript.svg)](https://www.javascript.com/)
+[![css](https://github.takahashi65.info/lib_badge/css-3.0.svg)](https://www.w3.org/Style/CSS/) 
+[![html](https://github.takahashi65.info/lib_badge/html-5.0.svg)](https://html.spec.whatwg.org/)
+[![no_maintenance](https://github.takahashi65.info/lib_badge/no_maintenance.svg)](https://github.com/potch/unmaintained.tech)
+[![Size](https://github-size-badge.herokuapp.com/Suzhou65/PlurkImage-Metadata-Converter.svg)](https://github.com/axetroy/github-size-badge)
 
 ## Contents
 - [PlurkImage-Metadata-Converter](#plurkimage-metadata-converter)

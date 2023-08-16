@@ -3,7 +3,7 @@
 [![css](https://github.takahashi65.info/lib_badge/css-3.0.svg)](https://www.w3.org/Style/CSS/) 
 [![html](https://github.takahashi65.info/lib_badge/html-5.0.svg)](https://html.spec.whatwg.org/)
 [![no_maintenance](https://github.takahashi65.info/lib_badge/no_maintenance.svg)](https://github.com/potch/unmaintained.tech)
-[![Size](https://github-size-badge.herokuapp.com/Suzhou65/PlurkImage-Metadata-Converter.svg)](https://github.com/axetroy/github-size-badge)
+[![Size](https://img.shields.io/github/repo-size/Suzhou65/PlurkImage-Metadata-Converter)](https://shields.io/category/size)
 
 ## Contents
 - [PlurkImage-Metadata-Converter](#plurkimage-metadata-converter)
@@ -41,10 +41,10 @@
 
 ## Development Purpose  
 偷偷說已經從一開始的娛樂與讓人講出一些實際身分不方便講出來的東西，變質為惡意潑糞跟散播惡意內容的媒介  
-![ScreenShot](https://github.takahashi65.info/lib_img/github_this_is_fine.webp)  
+![ScreenShot](https://github.takahashi65.info/lib_img/github_meme_this_is_fine.webp)  
 
 以噗浪駭客勳章為誓，為了蔚藍清淨的噗浪  
-![ScreenShot](https://github.takahashi65.info/lib_img/github_Plurk_icon.webp)  
+![ScreenShot](https://github.takahashi65.info/lib_img/github_plurk_hacker_icon.webp)  
 
 ## Resources
 - [Base62 encoder and decoder for arbitrary data](https://github.com/tuupola/base62)  
